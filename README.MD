@@ -1,1 +1,1 @@
-A README file edited within the CLI
+A README file, edited within the CLI.
